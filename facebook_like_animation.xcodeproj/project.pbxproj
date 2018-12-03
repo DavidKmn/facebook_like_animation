@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C71A2D8320E19A770012CA30 /* like_animation_lbta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = like_animation_lbta.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C71A2D8320E19A770012CA30 /* facebook_like_animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = facebook_like_animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C71A2D8620E19A770012CA30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C71A2D8820E19A770012CA30 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C71A2D8B20E19A770012CA30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		C71A2D7A20E19A770012CA30 = {
 			isa = PBXGroup;
 			children = (
-				C71A2D8520E19A770012CA30 /* like_animation_lbta */,
+				C71A2D8520E19A770012CA30 /* facebook_like_animation */,
 				C71A2D8420E19A770012CA30 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		C71A2D8420E19A770012CA30 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C71A2D8320E19A770012CA30 /* like_animation_lbta.app */,
+				C71A2D8320E19A770012CA30 /* facebook_like_animation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C71A2D8520E19A770012CA30 /* like_animation_lbta */ = {
+		C71A2D8520E19A770012CA30 /* facebook_like_animation */ = {
 			isa = PBXGroup;
 			children = (
 				C71A2D8620E19A770012CA30 /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				C71A2D8F20E19A780012CA30 /* LaunchScreen.storyboard */,
 				C71A2D9220E19A780012CA30 /* Info.plist */,
 			);
-			path = like_animation_lbta;
+			path = facebook_like_animation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C71A2D8220E19A770012CA30 /* like_animation_lbta */ = {
+		C71A2D8220E19A770012CA30 /* facebook_like_animation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C71A2D9520E19A780012CA30 /* Build configuration list for PBXNativeTarget "like_animation_lbta" */;
+			buildConfigurationList = C71A2D9520E19A780012CA30 /* Build configuration list for PBXNativeTarget "facebook_like_animation" */;
 			buildPhases = (
 				C71A2D7F20E19A770012CA30 /* Sources */,
 				C71A2D8020E19A770012CA30 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = like_animation_lbta;
+			name = facebook_like_animation;
 			productName = like_animation_lbta;
-			productReference = C71A2D8320E19A770012CA30 /* like_animation_lbta.app */;
+			productReference = C71A2D8320E19A770012CA30 /* facebook_like_animation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C71A2D7E20E19A770012CA30 /* Build configuration list for PBXProject "like_animation_lbta" */;
+			buildConfigurationList = C71A2D7E20E19A770012CA30 /* Build configuration list for PBXProject "facebook_like_animation" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C71A2D8220E19A770012CA30 /* like_animation_lbta */,
+				C71A2D8220E19A770012CA30 /* facebook_like_animation */,
 			);
 		};
 /* End PBXProject section */
@@ -281,7 +281,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TU4944T6UG;
+				DEVELOPMENT_TEAM = 467CCL7KXH;
 				INFOPLIST_FILE = like_animation_lbta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -299,7 +299,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = TU4944T6UG;
+				DEVELOPMENT_TEAM = 467CCL7KXH;
 				INFOPLIST_FILE = like_animation_lbta/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C71A2D7E20E19A770012CA30 /* Build configuration list for PBXProject "like_animation_lbta" */ = {
+		C71A2D7E20E19A770012CA30 /* Build configuration list for PBXProject "facebook_like_animation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C71A2D9320E19A780012CA30 /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C71A2D9520E19A780012CA30 /* Build configuration list for PBXNativeTarget "like_animation_lbta" */ = {
+		C71A2D9520E19A780012CA30 /* Build configuration list for PBXNativeTarget "facebook_like_animation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C71A2D9620E19A780012CA30 /* Debug */,
